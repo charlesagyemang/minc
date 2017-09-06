@@ -1,0 +1,2 @@
+# minc
+Njiiri practice
